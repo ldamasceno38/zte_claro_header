@@ -1,6 +1,10 @@
 # ZTE Claro Header Editor
 
-Modifies specific bytes in Claro ZTE F6600P/F6645P binary file headers:
+Modifies specific bytes in Claro ZTE modem binary file headers:
+
+Tested on
+- CLARO ZXHN ZTE F6600P
+- CLARO ZXHN ZTE F6645P
 
 ## Usage
 
